@@ -29,13 +29,11 @@ body {
     font-size: 20px;
 }
 
-
 .header ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
-
 
 .hero {
     height: 800px;
